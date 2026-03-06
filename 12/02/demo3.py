@@ -65,7 +65,7 @@ def stringexp():
     for w in normalstr:
         if len(w)>5:
             print(w)
-       
+
     
 
 
